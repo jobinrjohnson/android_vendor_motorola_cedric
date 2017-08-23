@@ -343,6 +343,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/cedric/proprietary/vendor/lib/libavenhancements.so:system/vendor/lib/libavenhancements.so \
     vendor/motorola/cedric/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
     vendor/motorola/cedric/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
+    vendor/motorola/cedric/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
     vendor/motorola/cedric/proprietary/vendor/lib/libc2d30-a3xx.so:system/vendor/lib/libc2d30-a3xx.so \
     vendor/motorola/cedric/proprietary/vendor/lib/libc2d30-a4xx.so:system/vendor/lib/libc2d30-a4xx.so \
     vendor/motorola/cedric/proprietary/vendor/lib/libc2d30-a5xx.so:system/vendor/lib/libc2d30-a5xx.so \
