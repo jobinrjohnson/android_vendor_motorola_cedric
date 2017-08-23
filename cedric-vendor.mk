@@ -226,6 +226,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/cedric/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
     vendor/motorola/cedric/proprietary/lib/libwbxmlparser.so:system/lib/libwbxmlparser.so \
     vendor/motorola/cedric/proprietary/lib/libzxingcpp.so:system/lib/libzxingcpp.so \
+    vendor/motorola/cedric/proprietary/lib/libuiblur.so:system/lib/libuiblur.so \
     vendor/motorola/cedric/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
     vendor/motorola/cedric/proprietary/vendor/bin/esepmdaemon:system/vendor/bin/esepmdaemon \
     vendor/motorola/cedric/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
