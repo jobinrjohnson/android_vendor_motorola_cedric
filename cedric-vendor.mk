@@ -872,11 +872,14 @@ PRODUCT_PACKAGES += \
     atfwd \
     TimeService \
     datastatusnotification \
+    QtiTetherService \
+    com.qualcomm.location \
     embms \
     CNEService \
     colorservice \
     ims \
     imssettings \
+    qcrilmsgtunnel \
     com.qti.snapdragon.sdk.display \
     embmslibrary \
     imscmlibrary \
